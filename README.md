@@ -24,4 +24,5 @@ At a performance threshhold of the top 1% of performers the set of candidate zip
 
 As this subset seems to have resilient and reliable property returns, it was selected for a final iterative ARIMA walk toward the five year target. ROI was evaluated by subtracting the final prediction value from the initial prediction value, and then the top five were selected.
 
-![](2.png)
+![.](/2.PNG)
+![.](/3.PNG)
